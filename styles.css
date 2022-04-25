@@ -14,3 +14,9 @@ h1 {
     color: burlywood;
     text-decoration: wavy;
 }
+
+button {
+    background-color: brown;
+    color: white;
+    padding: 5px 10px
+}
